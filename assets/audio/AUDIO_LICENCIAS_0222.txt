@@ -1,0 +1,17 @@
+Font Freda 02.2.2 QA — pistas de ambiente real
+Fecha de incorporación: 2026-11-19
+
+forest-real.ogg
+Fuente: https://commons.wikimedia.org/wiki/File:20090610_0_ambience.ogg
+Descripción: grabación de bosque y pájaros de nille (10 junio 2009).
+Licencia indicada en Wikimedia Commons: dominio público, dedicada por su autor.
+Descarga: copia Ogg original. No se atribuye a otras personas el sonido generado digitalmente.
+
+city-real.ogg
+Fuente: https://commons.wikimedia.org/wiki/File:Sunday_in_the_city_street_noise3.ogg
+Descripción: grabación de calle costera inglesa, vehículos, aves y ambiente urbano de cori (4 mayo 2008).
+Licencia indicada en Wikimedia Commons: dominio público, dedicada por su autor (pdsounds.org).
+Descarga: copia Ogg original.
+
+Uso: cada pista se reproduce en la app como capa espacial ambiental bajo el volumen principal; los sonidos no se reproducen en menús, pausas o resumen.
+Pendiente: revisión auditiva de los niveles y de las transiciones en Chrome, y verificación de compatibilidad en Safari.

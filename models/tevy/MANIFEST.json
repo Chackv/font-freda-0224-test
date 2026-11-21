@@ -1,0 +1,70 @@
+{
+  "source": "tevy.dev",
+  "license": "CC0 1.0",
+  "lod": 2,
+  "models": [
+    {
+      "name": "scots-pine",
+      "url": "https://tevy.dev/models/scots-pine/lod2.glb",
+      "bytes": 317720,
+      "sha256": "56a64a57948d13d22ed859bcee0ce5e284159a069942d2ea0e3f0d2169a41a8b",
+      "license": "CC0 1.0"
+    },
+    {
+      "name": "olive-tree",
+      "url": "https://tevy.dev/models/olive-tree/lod2.glb",
+      "bytes": 437816,
+      "sha256": "c7b9be21aac05b0e49fce02b1456e758be62cf37a1af078e7a75db8907541ff9",
+      "license": "CC0 1.0"
+    },
+    {
+      "name": "plane-tree",
+      "url": "https://tevy.dev/models/plane-tree/lod2.glb",
+      "bytes": 563224,
+      "sha256": "76001c5667fb27e2e3da3d9b512ab33a2108dd67bb98231ec69f55f069158da2",
+      "license": "CC0 1.0"
+    },
+    {
+      "name": "half-buried-boulder",
+      "url": "https://tevy.dev/models/half-buried-boulder/lod2.glb",
+      "bytes": 89252,
+      "sha256": "7682c50caddc5c7f5b3ee0ae19a1f074ddbfa8a155f40c2daeaa13331f06638d",
+      "license": "CC0 1.0"
+    },
+    {
+      "name": "limestone-boulder-medium",
+      "url": "https://tevy.dev/models/limestone-boulder-medium/lod2.glb",
+      "bytes": 67884,
+      "sha256": "5371384e0ed0f6254a11e38d9d81661ec5d488b76a4269152a9e858e4c33f12b",
+      "license": "CC0 1.0"
+    },
+    {
+      "name": "mossy-rocks",
+      "url": "https://tevy.dev/models/mossy-rocks/lod2.glb",
+      "bytes": 73592,
+      "sha256": "ccf9a55b04577d58f62444fc18cd0560b76630f51ee9b1365b38801b9dca13f5",
+      "license": "CC0 1.0"
+    },
+    {
+      "name": "village-house",
+      "url": "https://tevy.dev/models/village-house/lod2.glb",
+      "bytes": 99172,
+      "sha256": "2ed400d0b6636733dc33887c7ad497cf69fe4f552fe70c6db2578e61af3ef17c",
+      "license": "CC0 1.0"
+    },
+    {
+      "name": "adobe-house",
+      "url": "https://tevy.dev/models/adobe-house/lod2.glb",
+      "bytes": 144308,
+      "sha256": "8de38ee1bf3ac949396c0b76f07e5c48dbeb9ec8114e893d2390381956a0ddce",
+      "license": "CC0 1.0"
+    },
+    {
+      "name": "park-bench",
+      "url": "https://tevy.dev/models/park-bench/lod2.glb",
+      "bytes": 92956,
+      "sha256": "0b949f38ee02166fda12acf6438e8f6dc344a0d8b04aa1df85acc2766c0ef694",
+      "license": "CC0 1.0"
+    }
+  ]
+}
